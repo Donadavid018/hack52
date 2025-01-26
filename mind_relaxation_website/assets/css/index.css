@@ -1,0 +1,110 @@
+/* Add background image to the body */
+body {
+    background-image: url('../images/ind.jpg'); /* Path to your background image */
+    background-size: cover;
+    background-position: center;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+/* Style for sections */
+section {
+    padding: 20px;
+}
+
+/* Header text */
+h1 {
+    color: white;
+    text-align: center;
+    font-size: 2.5rem;
+    margin-top: 50px;
+}
+
+/* Subheader text */
+h2 {
+    color: white;
+    text-align: center;
+    font-size: 2rem;
+    margin-top: 30px;
+}
+
+/* Paragraph text */
+p {
+    color: white;
+    text-align: center;
+    font-size: 1.2rem;
+}
+
+/* Style the search form container with semi-transparent white background */
+.search-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    background-color: rgba(255, 255, 255, 0.8); /* Semi-transparent white */
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* Style the search form */
+.search-form {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    max-width: 500px;
+}
+
+.search-form input {
+    padding: 10px;
+    width: 300px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.search-form button {
+    padding: 10px;
+    background-color: #28a745; /* Green color */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.search-form button:hover {
+    background-color: #218838; /* Darker green on hover */
+}
+
+/* Activities grid layout */
+.activities-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+    margin-top: 30px;
+}
+
+.activities-grid .card {
+    background-color: rgba(255, 255, 255, 0.8); /* Semi-transparent white */
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    text-align: center;
+}
+
+.activities-grid .card h3 {
+    font-size: 1.5rem;
+}
+
+.activities-grid .card p {
+    font-size: 1rem;
+    margin-bottom: 15px;
+}
+
+.activities-grid .card a {
+    text-decoration: none;
+    font-weight: bold;
+    color: #007BFF;
+}
+
+.activities-grid .card a:hover {
+    color: #0056b3;
+}
