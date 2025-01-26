@@ -30,14 +30,9 @@ Calm Wave is here to make relaxation just a click away—it's time to ride the C
 ### Technologies/Components Used
 For Software:
 - Languages used:HTML, css, php
-- [Frameworks used:]
 - [Libraries used]
-- [Tools used: GitHub(version control)]
+- Tools used: GitHub(version control),MySQL
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
 
 ### Implementation
 For Software:
@@ -53,46 +48,35 @@ For Software:
 # Screenshots 
 1.Home Page
 The homepage offers easy access to register into the site and provide access for various activities such as meditation, breathing exercises, and yoga, all designed with a calming interface.
+[homepage](assets/img/1.png)
+
 
 
 
 
 2.Registration page
 This page allows users to log in, with simple fields for name, email, and password, ensuring quick access to the Calm Wave platform.
-
+[registrationpage](assets/img/3.png)
 
 
 3.Activity Page
 The activity page displays available relaxation tasks along with their recommended locations and time durations for an optimized stress-relief experience.
+[activitypage](assets/img/2.png)
+
+
+
+4.About page
+Our website offers a variety of activities aimed at promoting relaxation, reducing stress, and enhancing well-being. Through yoga, meditation, music therapy, and more, we provide a peaceful space for individuals to find balance and inner peace.It also provide description for various task.
+[aboutpage](assets/img/4.png)
 
 
 
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+6.Task page
+The task page features engaging games like Tic Tac Toe, Snake, Paper, and Card, offering a fun and interactive way to relax within a specified time limit. These activities are designed to provide both entertainment and mental stimulation, promoting relaxation and focus.
+[taskpage](assets/img/5.png)
+[taskpage](assets/img/6.png)
 
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Team](Add photo of your team here)
-
-
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
